@@ -1,0 +1,47 @@
+{
+  "id": "short_story_bundle",
+  "title": "Short Story",
+  "courseId": "eng201",
+  "unitId": "unit_fictional_forms",
+  "topicId": "topic_short_story",
+  "status": "published",
+  "version": "1.0",
+  "slug": "fictional-forms/short-story",
+
+  "learning": {
+    "beginner": {
+      "introduction": "A short story is a brief fictional narrative focused on one incident.",
+      "coreExplanation": "It aims for unity of effect — everything contributes to a single impression.",
+      "keyPoints": ["Brief length", "Unity of effect", "Single incident"],
+      "everydayAnalogy": "Like a snapshot — one moment captured fully.",
+      "memoryTrick": "SHORT = Single Highlight Of Real Tale.",
+      "commonMistakes": ["Adding too many subplots", "Confusing with novel"],
+      "visualCue": "short_story_structure_map"
+    },
+    "university": {
+      "introduction": "The short story is a modern prose form emphasizing brevity and intensity.",
+      "coreExplanation": "Pioneered by Poe, Chekhov, Maupassant. Focus on one incident, one effect.",
+      "comparativeAnalysis": "Poe’s 'The Tell-Tale Heart' vs Chekhov’s 'The Lady with the Dog'.",
+      "academicVocabulary": ["unity of effect", "brevity", "epiphany", "compression"]
+    },
+    "exam": {
+      "expectedQuestionTypes": ["Define short story", "Explain unity of effect", "Compare Poe and Chekhov"],
+      "answerStructure": {
+        "shortQuestion": ["Define", "Key feature", "Example"],
+        "longQuestion": ["Intro", "Theory", "Apply to text", "Critical evaluation"]
+      },
+      "examinerExpectations": ["Identify brevity", "Explain unity of effect", "Use examples"],
+      "quickRevisionPoints": ["Short story = brief, single incident", "Unity of effect = Poe"]
+    },
+    "distinction": {
+      "criticalAnalysis": "Short stories condense narrative meaning into minimal space.",
+      "scholarlyPerspectives": [
+        { "scholar": "Edgar Allan Poe", "work": "Review of Hawthorne’s Twice-Told Tales", "insight": "Unity of effect" },
+        { "scholar": "Anton Chekhov", "work": "Collected Stories", "insight": "Epiphany and realism" }
+      ],
+      "comparativeDistinctionAnalysis": "Poe’s intensity vs Chekhov’s subtle realism.",
+      "advancedTerminology": ["epiphany", "compression", "unity of effect"],
+      "researchDirections": ["Digital flash fiction", "Short story cycles"]
+    }
+  }
+}
