@@ -1,0 +1,34 @@
+{
+  "courseId": "eng201",
+  "title": "Introduction to Fictional and Non-Fictional Narrative",
+  "units": [
+    {
+      "id": "unit_elements_fiction",
+      "title": "Elements of Fiction",
+      "topics": [
+        { "id": "topic_plot", "bundle": "plot_bundle" },
+        { "id": "topic_characterization", "bundle": "characterisation_bundle" },
+        { "id": "topic_theme", "bundle": "theme_bundle" },
+        { "id": "topic_point_of_view", "bundle": "pov_bundle" },
+        { "id": "topic_setting", "bundle": "setting_bundle" }
+      ]
+    },
+    {
+      "id": "unit_fictional_forms",
+      "title": "Fictional Prose Forms",
+      "topics": [
+        { "id": "topic_novel", "bundle": "novel_bundle" },
+        { "id": "topic_short_story", "bundle": "short_story_bundle" },
+        { "id": "topic_novella", "bundle": "novella_bundle" }
+      ]
+    },
+    {
+      "id": "unit_nonfiction",
+      "title": "Non-Fictional Narrative",
+      "topics": [
+        { "id": "topic_essay", "bundle": "essay_bundle" },
+        { "id": "topic_nonfiction", "bundle": "nonfiction_bundle" }
+      ]
+    }
+  ]
+}
