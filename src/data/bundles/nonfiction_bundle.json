@@ -1,0 +1,59 @@
+{
+  "id": "nonfiction_bundle",
+  "title": "Non-Fiction",
+  "courseId": "eng201",
+  "unitId": "unit_nonfiction",
+  "topicId": "topic_nonfiction",
+  "status": "published",
+  "version": "1.0",
+  "slug": "nonfiction/nonfiction",
+
+  "learning": {
+    "beginner": {
+      "introduction": "Non-fiction is writing based on real people, events, and ideas.",
+      "coreExplanation": "Forms include biography, autobiography, memoir, travelogue, and creative non-fiction.",
+      "keyPoints": ["Real events", "Real people", "Expresses ideas"],
+      "everydayAnalogy": "Like a documentary in words.",
+      "memoryTrick": "FACT = Factual Accounts Capture Truth.",
+      "commonMistakes": ["Confusing non-fiction with fiction", "Ignoring author’s perspective"],
+      "visualCue": "nonfiction_types_chart"
+    },
+    "university": {
+      "introduction": "Non-fiction prose encompasses factual narrative forms with literary style.",
+      "coreExplanation": "Biography = life of another; Autobiography = life of self; Memoir = memory-focused; Travelogue = journeys; Creative non-fiction = literary style applied to fact.",
+      "comparativeAnalysis": "Orwell’s *Shooting an Elephant* (memoir/personal essay) vs Sontag’s *Illness as Metaphor* (critical essay).",
+      "academicVocabulary": ["memoir", "biography", "autobiography", "travelogue", "creative non-fiction"]
+    },
+    "exam": {
+      "expectedQuestionTypes": ["Define non-fiction", "Types of non-fiction", "Discuss Orwell/Sontag"],
+      "answerStructure": {
+        "shortQuestion": ["Define", "Type", "Example"],
+        "longQuestion": ["Intro", "Explain types", "Apply to text", "Critical evaluation"]
+      },
+      "examinerExpectations": ["Identify type", "Use examples", "Explain purpose"],
+      "quickRevisionPoints": ["Non-fiction = factual writing", "Types: biography, autobiography, memoir, travelogue, creative non-fiction"]
+    },
+    "distinction": {
+      "criticalAnalysis": "Non-fiction performs cultural critique — blending fact with interpretation.",
+      "scholarlyPerspectives": [
+        { "scholar": "George Orwell", "work": "Shooting an Elephant", "insight": "Personal essay as political critique" },
+        { "scholar": "Susan Sontag", "work": "Illness as Metaphor", "insight": "Critical essay as cultural analysis" },
+        { "scholar": "John Stuart Mill", "work": "On Liberty", "insight": "Philosophical essay as political argument" }
+      ],
+      "comparativeDistinctionAnalysis": "Orwell’s personal narrative vs Sontag’s critical analysis vs Mill’s philosophical argument.",
+      "advancedTerminology": ["memoir", "aphorism", "dialectic", "cultural critique"],
+      "researchDirections": ["Digital memoirs", "Creative non-fiction in journalism"]
+    }
+  },
+
+  "metadata": {
+    "difficulty": "medium",
+    "importance": "critical",
+    "examWeight": "very_high",
+    "timeRequired": "50 minutes",
+    "prerequisites": ["topic_essay"],
+    "relatedTopics": ["topic_characterization", "topic_theme"],
+    "prescribedTexts": ["shooting_an_elephant", "illness_as_metaphor", "on_liberty"],
+    "bloomsLevels": ["remember", "understand", "apply", "analyze", "evaluate", "create"]
+  }
+}
