@@ -1,0 +1,144 @@
+{
+  "id": "plot_bundle",
+  "title": "Plot",
+  "courseId": "eng201",
+  "unitId": "unit_elements_fiction",
+  "topicId": "topic_plot",
+  "subtopicId": null,
+
+  "status": "published",
+  "version": "1.0",
+  "lastUpdated": "2026-06-09",
+  "slug": "elements-of-fiction/plot",
+
+  "learning": {
+    "beginner": {
+      "introduction": "Imagine telling a friend what happened in a movie. You say: 'First this happened, then that happened.' That is STORY. Now imagine your friend asks WHY those things happened. When you answer WHY — that becomes PLOT.",
+      "coreExplanation": "Story = events in time order. Plot = those same events connected by cause and effect. E.M. Forster explained: 'The king died, and then the queen died' — story. 'The king died, and then the queen died of grief' — plot. The word 'grief' is the cause.",
+      "keyPoints": [
+        "Story = what happened",
+        "Plot = why it happened",
+        "Plot makes readers ask 'What happens next?'",
+        "Good novels have both story AND plot"
+      ],
+      "everydayAnalogy": "Story: 'I missed the bus.' Plot: 'I missed the bus because I overslept after studying late.' Plot explains WHY.",
+      "memoryTrick": "PLOT = Purpose, Links, Order, Time.",
+      "commonMistakes": [
+        "Confusing plot with story summary",
+        "Ignoring non-linear plots — they are still plots",
+        "Writing 'plot means the story' — incorrect"
+      ],
+      "visualCue": "freytag_pyramid_flowchart"
+    },
+
+    "university": {
+      "introduction": "Plot is the causal and temporal architecture of narrative fiction. Story (fabula) = chronological sequence. Plot (syuzhet) = artistic arrangement.",
+      "coreExplanation": "Russian Formalists distinguished fabula vs syuzhet. Forster defined plot as causality. Genette added order, duration, frequency. Together, these frameworks allow deeper analysis.",
+      "keyTheories": [
+        { "name": "Freytag's Pyramid", "description": "Exposition → Rising Action → Climax → Falling Action → Resolution", "limitation": "Assumes linear narrative" },
+        { "name": "Fabula vs Syuzhet", "description": "Fabula = raw events. Syuzhet = artistic arrangement.", "limitation": "Readers reconstruct fabula anyway" },
+        { "name": "Genette's Narrative Discourse", "description": "Order, duration, frequency", "limitation": "Highly technical, may ignore reader response" }
+      ],
+      "comparativeAnalysis": "Golding uses a linear Freytag arc in LOTF, climaxing with Simon’s death as moral catastrophe. Hamid’s Moth Smoke uses fragmented trial testimonies, disrupting causality.",
+      "academicVocabulary": [
+        "fabula", "syuzhet", "dénouement", "anachrony", "analepsis", "prolepsis", "ellipsis", "narrative arc"
+      ]
+    },
+
+    "exam": {
+      "introduction": "Plot is a high-yield exam topic. Examiners expect theory, structure, and application to texts.",
+      "expectedQuestionTypes": [
+        "Define plot vs story (short)",
+        "Explain Freytag with LOTF (long)",
+        "Discuss plot in LOTF (long)",
+        "Hamid’s plot in Moth Smoke (long)",
+        "Fabula vs syuzhet example (short)"
+      ],
+      "answerStructure": {
+        "shortQuestion": ["Define clearly", "State distinction", "Give example", "Conclude"],
+        "longQuestion": ["Intro definition", "Theory framework", "Apply to text", "Compare second text", "Critical evaluation", "Conclusion"]
+      },
+      "examinerExpectations": [
+        "Use correct terminology",
+        "Refer to specific events",
+        "Explain WHY structure matters",
+        "Avoid retelling story"
+      ],
+      "commonMistakesToAvoid": [
+        "Writing story summary",
+        "Ignoring fabula vs syuzhet",
+        "Using only one text",
+        "Forgetting theorists"
+      ],
+      "quickRevisionPoints": [
+        "Plot = events + causality",
+        "Story = fabula, Plot = syuzhet",
+        "Freytag’s 5 stages",
+        "LOTF climax = Simon’s death",
+        "Moth Smoke = non-linear trial",
+        "Forster’s grief example"
+      ]
+    },
+
+    "distinction": {
+      "introduction": "Distinction analysis asks: what ideological work does plot structure perform?",
+      "criticalAnalysis": "Aristotle saw plot as the soul of tragedy. Golding uses plot against itself — the adventure arc collapses into savagery. Hamid fragments plot to reflect contested truth in postcolonial Lahore.",
+      "scholarlyPerspectives": [
+        { "scholar": "Peter Brooks", "work": "Reading for the Plot (1984)", "insight": "Plot driven by narrative desire", "applicationToText": "LOTF delays catastrophe to intensify anticipation" },
+        { "scholar": "Mikhail Bakhtin", "work": "The Dialogic Imagination (1981)", "insight": "Chronotope = time-space ideological load", "applicationToText": "Moth Smoke’s trial chronotope contests causality" }
+      ],
+      "comparativeDistinctionAnalysis": "Golding uses Freytag to chart moral descent. Hamid dismantles Freytag to reflect epistemic uncertainty. Both choices are ideological.",
+      "advancedTerminology": ["mythos", "teleological plot", "chronotope", "narrative desire", "emplotment"],
+      "researchDirections": [
+        "Ricoeur’s emplotment",
+        "Feminist critiques of teleological plot",
+        "Postcolonial disruption of narrative",
+        "Digital non-linear plots"
+      ]
+    }
+  },
+
+  "revision": {
+    "quickNotes": [
+      "Plot ≠ Story",
+      "Forster’s grief example",
+      "Freytag’s 5 stages",
+      "LOTF climax = Simon’s death",
+      "Moth Smoke = non-linear trial",
+      "Fabula vs Syuzhet",
+      "Genette’s order/duration/frequency"
+    ],
+    "lastNightRevision": [
+      "Write Freytag’s Pyramid with LOTF examples",
+      "Practise plot vs story definition",
+      "Memorise one LOTF quote",
+      "Compare linear vs non-linear plots",
+      "Analyse plot, don’t retell"
+    ],
+    "keyPoints": [
+      "Story vs Plot",
+      "Freytag’s Pyramid",
+      "Forster’s definition",
+      "Linear vs non-linear",
+      "LOTF structure",
+      "Moth Smoke structure"
+    ],
+    "memoryTricks": [
+      "PLOT = Purpose, Links, Order, Time",
+      "Forster’s grief sentence",
+      "Freytag = mountain shape",
+      "LOTF = descent, Moth Smoke = fractured"
+    ]
+  },
+
+  "metadata": {
+    "difficulty": "medium",
+    "importance": "critical",
+    "examWeight": "very_high",
+    "timeRequired": "45 minutes",
+    "prerequisites": ["topic_what_is_narrative"],
+    "relatedTopics": ["topic_characterization", "topic_theme", "topic_point_of_view", "topic_setting"],
+    "prescribedTexts": ["lord_of_the_flies", "moth_smoke"],
+    "bloomsLevels": ["remember", "understand", "apply", "analyze", "evaluate"]
+  }
+}
