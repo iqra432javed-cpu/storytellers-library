@@ -1,0 +1,47 @@
+{
+  "id": "novel_bundle",
+  "title": "Novel",
+  "courseId": "eng201",
+  "unitId": "unit_fictional_forms",
+  "topicId": "topic_novel",
+  "status": "published",
+  "version": "1.0",
+  "slug": "fictional-forms/novel",
+
+  "learning": {
+    "beginner": {
+      "introduction": "A novel is a long fictional narrative with many characters and events.",
+      "coreExplanation": "It explores complex themes through extended plots and multiple perspectives.",
+      "keyPoints": ["Long", "Complex", "Multiple characters", "Deep themes"],
+      "everydayAnalogy": "Like a TV series — many episodes, many characters.",
+      "memoryTrick": "NOVEL = Narrative Of Various Extended Lives.",
+      "commonMistakes": ["Confusing with short story", "Ignoring complexity"],
+      "visualCue": "novel_structure_chart"
+    },
+    "university": {
+      "introduction": "The novel is the dominant modern prose form, emerging in the 18th century.",
+      "coreExplanation": "It allows psychological depth, social critique, and thematic complexity.",
+      "comparativeAnalysis": "Fielding’s 'Tom Jones' vs Austen’s 'Pride and Prejudice'.",
+      "academicVocabulary": ["realism", "psychological depth", "social critique", "multiplicity"]
+    },
+    "exam": {
+      "expectedQuestionTypes": ["Define novel", "Discuss complexity", "Compare Fielding and Austen"],
+      "answerStructure": {
+        "shortQuestion": ["Define", "Key feature", "Example"],
+        "longQuestion": ["Intro", "Theory", "Apply to text", "Critical evaluation"]
+      },
+      "examinerExpectations": ["Identify length", "Explain complexity", "Use examples"],
+      "quickRevisionPoints": ["Novel = long, complex", "Multiple characters", "Deep themes"]
+    },
+    "distinction": {
+      "criticalAnalysis": "Novels perform ideological work — shaping ideas of society and identity.",
+      "scholarlyPerspectives": [
+        { "scholar": "Ian Watt", "work": "The Rise of the Novel (1957)", "insight": "Novel as realism and individualism" },
+        { "scholar": "Mikhail Bakhtin", "work": "Dialogic Imagination", "insight": "Novel as polyphony" }
+      ],
+      "comparativeDistinctionAnalysis": "Watt’s realism vs Bakhtin’s polyphony.",
+      "advancedTerminology": ["polyphony", "realism", "psychological depth"],
+      "researchDirections": ["Digital novels", "Postmodern fragmentation"]
+    }
+  }
+}
