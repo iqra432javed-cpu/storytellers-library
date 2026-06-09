@@ -1,0 +1,47 @@
+{
+  "id": "essay_bundle",
+  "title": "Essay",
+  "courseId": "eng201",
+  "unitId": "unit_nonfiction",
+  "topicId": "topic_essay",
+  "status": "published",
+  "version": "1.0",
+  "slug": "nonfiction/essay",
+
+  "learning": {
+    "beginner": {
+      "introduction": "An essay is a short piece of writing where the author shares ideas or experiences.",
+      "coreExplanation": "Essays can be personal, critical, argumentative, or aphoristic. They are non-fiction.",
+      "keyPoints": ["Short", "Non-fiction", "Expresses ideas"],
+      "everydayAnalogy": "Like a blog post or opinion article.",
+      "memoryTrick": "ESSAY = Express Short Study About Yourself.",
+      "commonMistakes": ["Confusing essay with story", "Writing too long"],
+      "visualCue": "essay_types_chart"
+    },
+    "university": {
+      "introduction": "The essay is a flexible prose form invented by Montaigne and popularized by Bacon.",
+      "coreExplanation": "Types include personal, critical, argumentative, aphoristic.",
+      "comparativeAnalysis": "Orwell’s 'Shooting an Elephant' = personal; Sontag’s 'Illness as Metaphor' = critical.",
+      "academicVocabulary": ["aphorism", "reflection", "argument", "analysis"]
+    },
+    "exam": {
+      "expectedQuestionTypes": ["Define essay", "Types of essay", "Discuss Orwell/Sontag"],
+      "answerStructure": {
+        "shortQuestion": ["Define essay", "Give one type", "Example"],
+        "longQuestion": ["Intro definition", "Explain types", "Apply to text", "Critical evaluation"]
+      },
+      "examinerExpectations": ["Use examples", "Identify type", "Explain purpose"],
+      "quickRevisionPoints": ["Essay = non-fiction", "Types: personal, critical, argumentative, aphoristic"]
+    },
+    "distinction": {
+      "criticalAnalysis": "Essays perform cultural work — shaping thought, argument, and reflection.",
+      "scholarlyPerspectives": [
+        { "scholar": "Montaigne", "work": "Essais", "insight": "Essay as attempt" },
+        { "scholar": "Francis Bacon", "work": "Essays", "insight": "Aphoristic wisdom" }
+      ],
+      "comparativeDistinctionAnalysis": "Orwell vs Sontag: personal vs critical essay.",
+      "advancedTerminology": ["aphorism", "dialectic", "reflection"],
+      "researchDirections": ["Digital essays", "Essay as cultural critique"]
+    }
+  }
+}
