@@ -1,0 +1,47 @@
+{
+  "id": "novella_bundle",
+  "title": "Novella",
+  "courseId": "eng201",
+  "unitId": "unit_fictional_forms",
+  "topicId": "topic_novella",
+  "status": "published",
+  "version": "1.0",
+  "slug": "fictional-forms/novella",
+
+  "learning": {
+    "beginner": {
+      "introduction": "A novella is longer than a short story but shorter than a novel.",
+      "coreExplanation": "It has more development than a short story but less complexity than a novel.",
+      "keyPoints": ["Medium length", "Moderate complexity", "Single theme"],
+      "everydayAnalogy": "Like a short season of a TV show — more than one episode, but not a full series.",
+      "memoryTrick": "NOVELLA = Novel Lite.",
+      "commonMistakes": ["Confusing with short story", "Treating it as full novel"],
+      "visualCue": "novella_comparison_chart"
+    },
+    "university": {
+      "introduction": "The novella balances brevity with depth, often focusing on one theme.",
+      "coreExplanation": "Examples include Conrad’s *Heart of Darkness* and Steinbeck’s *Of Mice and Men*.",
+      "comparativeAnalysis": "Hemingway’s *Old Man and the Sea* vs Steinbeck’s *Of Mice and Men*.",
+      "academicVocabulary": ["compression", "focus", "limited scope"]
+    },
+    "exam": {
+      "expectedQuestionTypes": ["Define novella", "Compare novella with novel and short story"],
+      "answerStructure": {
+        "shortQuestion": ["Define", "Key feature", "Example"],
+        "longQuestion": ["Intro", "Theory", "Apply to text", "Compare", "Critical evaluation"]
+      },
+      "examinerExpectations": ["Identify medium length", "Explain focus", "Use examples"],
+      "quickRevisionPoints": ["Novella = medium length", "More than short story, less than novel"]
+    },
+    "distinction": {
+      "criticalAnalysis": "Novellas often explore existential or moral crises in compressed form.",
+      "scholarlyPerspectives": [
+        { "scholar": "Henry James", "work": "Prefaces", "insight": "Novella as concentrated art" },
+        { "scholar": "Steinbeck", "work": "Of Mice and Men", "insight": "Social critique in compact form" }
+      ],
+      "comparativeDistinctionAnalysis": "Conrad’s symbolic depth vs Steinbeck’s social realism.",
+      "advancedTerminology": ["compression", "existential focus", "symbolic density"],
+      "researchDirections": ["Digital novellas", "Novella cycles"]
+    }
+  }
+}
